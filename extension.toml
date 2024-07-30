@@ -1,0 +1,7 @@
+id = "quiet-lightz"
+name = "Quiet Lightz"
+version = "0.0.1"
+schema_version = 1
+authors = ["Mueez Khan <30333942+rzmk@users.noreply.github.com>"]
+description = "Zed theme based on the Quiet Light theme."
+repository = "https://github.com/rzmk/quiet-lightz"
